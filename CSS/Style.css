@@ -1,0 +1,47 @@
+/********************************* Tag Selectors *********************************/
+
+body {
+    background-color: #f3dfed;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 4%;
+}
+
+h3 {
+    color: #66bfbf;
+}
+
+h1 {
+    color: #66bfbf;
+    font-size: 35px;
+}
+
+img:hover{
+    background-color: rebeccapurple;
+}
+
+/********************************* Class Selectors *********************************/
+
+.Orange{
+    background-color:aquamarine;
+}
+.Apple{
+    background-color: yellow;
+}
+.circular{
+    border-radius: 15%;
+}
+
+/********************************* ID SELECTORS *********************************/
+
+#heading{
+    color: rebeccapurple;
+}
+#big{
+    font-size: 100px;
+}
